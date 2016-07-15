@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ZWFAJ"
+  id="myeclipse.1456727506669"
+  context-root="/ZWFAJ"
+  j2ee-spec="6.0"
+  archive="ZWFAJ.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
